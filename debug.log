@@ -1,0 +1,27 @@
+[0818/081135.985:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0818/093341.200:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0820/103548.513:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/104116.387:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/105116.401:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/105116.409:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/105616.512:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/111116.520:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/112616.526:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/114116.558:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/115616.596:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/165803.017:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/171303.028:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/172803.049:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(151)] SuspendThread: Acceso denegado. (0x5)
+[0823/174045.027:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[0823/174045.027:ERROR:exception_snapshot_win.cc(98)] thread ID 4944 not found in process
+[0826/151004.693:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0906/100939.082:ERROR:crash_report_database_win.cc(469)] failed to stat report
