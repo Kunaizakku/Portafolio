@@ -1,0 +1,32 @@
+{ 
+    "start_url": "/",
+    "short_name": "KunWork",  
+    "name": "KW Brayan",  
+    "description": "Mi primer proyecto PWA",  
+    "background_color": "#9D60FB",  
+    "theme_color": "#BA8CFF",  
+    "orientation": "portrait",    
+    "display": "standalone",  
+    "icons":[
+      {  
+        "src": "icono.png",   
+        "type": "image/png",  
+        "sizes": "72x72" 
+      },
+      {
+        "src": "icono2.png",  
+        "type": "image/png",  
+        "sizes": "48x48"
+      },
+      {
+        "src": "icono3.png",  
+        "type": "image/png",  
+        "sizes": "96x96" 
+      },
+      {
+        "src": "icono4.png",  
+        "type": "image/png",  
+        "sizes": "144x144" 
+      }
+    ] 
+  }
