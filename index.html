@@ -422,6 +422,18 @@
         });
     </script>
 
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('service_worked.js')
+            .then((registration) => {
+                console.log('Service Worker registrado:', registration);
+            })
+            .catch((error) => {
+                console.log('Error:', error);
+            });
+        }
+    </script>
+
 </body>
 
 </html>
