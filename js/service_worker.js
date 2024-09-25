@@ -1,5 +1,5 @@
 // Nombre del caché
-const CACHE_NAME = 'cache-v1';
+const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
   '/',
 
@@ -135,7 +135,7 @@ self.addEventListener('fetch', event => {
         if (response) {
           return response; // Retorna el archivo desde el caché
         }
-        return fetch(event.request).catch(() => caches.match('/index.html'));
+        return fetch(event.request).catch(() => caches.match('/offline.html'));
       })
   );
 });
