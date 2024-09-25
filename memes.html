@@ -104,4 +104,15 @@
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pzjw8f+ua7Kw1TIqElr6fBdAHG1ELsIuFf4aWTV1t6mjZYY5HTYeNf1K/07FJ0IV" crossorigin="anonymous"></script>
 </body>
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('js/service_worker.js').then(registration => {
+            console.log('Service Worker registrado con éxito:', registration);
+            }).catch(error => {
+            console.log('Error al registrar el Service Worker:', error);
+            });
+        });
+    }
+</script>
 </html>
